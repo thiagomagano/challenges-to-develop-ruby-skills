@@ -13,7 +13,7 @@ Fazendo os exercicios do livro [Exercise for Programers: 57 challenges to develo
 - [x] [01. Saying Hello](ch01)
 - [x] [02. Counting the Number of Characters](ch02)
 - [x] [03. Printing Quotes](ch03)
-- [ ] [04. Mad Lib]()
+- [x] [04. Mad Lib](ch04)
 - [ ] [05. Simple Math]()
 - [ ] [06. Retirement Calculator]()
 
