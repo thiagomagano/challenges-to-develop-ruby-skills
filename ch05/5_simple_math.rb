@@ -1,6 +1,5 @@
 #!/home/thi/.rbenv/versions/3.4.7/bin/ruby
 
-
 def add(a, b)
   a + b
 end

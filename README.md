@@ -14,23 +14,23 @@ Fazendo os exercicios do livro [Exercise for Programers: 57 challenges to develo
 - [x] [02. Counting the Number of Characters](ch02)
 - [x] [03. Printing Quotes](ch03)
 - [x] [04. Mad Lib](ch04)
-- [ ] [05. Simple Math]()
-- [ ] [06. Retirement Calculator]()
+- [x] [05. Simple Math](ch05)
+- [x] [06. Retirement Calculator](ch06)
 
 ### 3. Calculations
 
-- [x] [07. Area of a Rectangular Room](ch07-arearoom)
-- [ ] [08. Pizza Party](ch08-pizzaparty)
-- [ ] [09. Paint Calculator](ch09-paitingcalculator)
-- [ ] [10. Self-Checkout](ch10-self-checkout)
-- [ ] [11. Currency Conversion](ch11-currency-conversion)
-- [ ] [12. Computing Simple Interest](ch12-simple-interest)
-- [ ] [13. Determining Compound Interest](c13-compound-interest)
+- [ ] [07. Area of a Rectangular Room]()
+- [ ] [08. Pizza Party]()
+- [ ] [09. Paint Calculator]()
+- [ ] [10. Self-Checkout]()
+- [ ] [11. Currency Conversion]()
+- [ ] [12. Computing Simple Interest]()
+- [ ] [13. Determining Compound Interest]()
 
 ### 4. Making Decision
 
-- [ ] [14. Tax Calculator](ch14-tax-calculator)
-- [ ] [15. Password Validation](ch15-password-validation)
+- [ ] [14. Tax Calculator]()
+- [ ] [15. Password Validation]()
 - [ ] 16. Legal Driving Age
 - [ ] 17. Blood Alcohol Calculator
 - [ ] 18. Temperature Converter
